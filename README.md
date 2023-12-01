@@ -1,16 +1,15 @@
-### Hi there 👋
+# 🌟Weeeee!💨
 
-<!--
-**AntoDono/antodono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Youwei Zhen.
+Aspiring Computer Science and Entrepreneurship student.
 
-Here are some ideas to get you started:
+Over the years, I have learned many different skills and frameworks in web and software design. With those skills that I have acquired, I founded and created several tech organizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As of lately, I am currently developing and studying machine learning and Artificial Intelligence. I am also in the Gold Divison (Silver Medal) of USACO
+
+When I am not grinding out my projects, you can often find me on the fencing piste 🤺. 
+
+<div>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antodono&rank_icon=github&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antodono&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</div>
