@@ -10,6 +10,6 @@ As of lately, I am currently developing and studying machine learning and Artifi
 When I am not grinding out my projects, you can often find me on the fencing piste 🤺. 
 
 <div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antodono&rank_icon=github&show_icons=true&theme=dark" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antodono&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-stats-readme-sooty.vercel.app/api?username=antodono&rank_icon=github&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-stats-readme-sooty.vercel.app/api/top-langs?username=antodono&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </div>
