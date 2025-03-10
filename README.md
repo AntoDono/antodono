@@ -5,7 +5,7 @@ Aspiring Computer Science and Entrepreneurship student.
 
 Over the years, I have learned many different skills and frameworks in web and software design. With those skills that I have acquired, I founded and created several tech organizations.
 
-As of lately, I am currently developing and studying machine learning and Artificial Intelligence. I am also in the Platinum Divison (Gold Medal) of USACO
+As of lately, I am currently developing and studying machine learning and Artificial Intelligence. I am also in the Platinum Divison (Gold Level) of USACO
 
 When I am not grinding out my projects, you can often find me on the fencing piste 🤺. 
 
