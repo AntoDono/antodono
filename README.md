@@ -1,13 +1,17 @@
 # 🌟Weeeee!💨
 
 ## I'm Youwei Zhen.
-Aspiring Computer Science and Entrepreneurship student.
+Applied Math & Computer Science @ Brown · SWE Intern @ Amazon · Previously @ SpaceX & Refine
 
-Over the years, I have learned many different skills and frameworks in web and software design. With those skills that I have acquired, I founded and created several tech organizations.
+A builder at heart. It all started with a text-based racecar game on a TI-84, and since then I've been building everything from Discord bots and full-stack web apps to ML systems — plus a few tech organizations along the way.
 
-As of lately, I am currently developing and studying machine learning and Artificial Intelligence. I am also in the Platinum Divison (Gold Level) of USACO
+These days I'm deep into **machine learning and AI**, especially applying it to critical domains like **healthcare and neuroscience**.
 
-When I am not grinding out my projects, you can often find me on the fencing piste 🤺. 
+🏆 **11x hackathon winner** across HackMIT, HackPrinceton, Harvard, Cornell, and more.
+
+When I'm not grinding out projects, you can find me on the fencing piste 🤺 or side questing.
+
+🌐 [youweizhen.com](https://youweizhen.com) · 💼 [LinkedIn](https://www.linkedin.com/in/youwei-zhen-a8b662213/) · ✉️ youwei_zhen@brown.edu
 
 <div>
   <img height=200 align="center" src="https://github-stats-readme-sooty.vercel.app/api?username=antodono&rank_icon=github&show_icons=true&theme=dark" />
